@@ -136,9 +136,10 @@ Execute the program
 # OUPUT
 
 
+![Screenshot from 2023-01-16 15-12-22](https://user-images.githubusercontent.com/118596964/212649331-f5bcacb6-e29d-427d-ab30-952ade2a09c5.png)
 
 
-![timetable-1.pdf](https://github.com/Pavithraramasaamy/timetable/files/10424520/timetable-1.pdf)
+![Screenshot from 2023-01-16 15-22-18](https://user-images.githubusercontent.com/118596964/212649343-154ea37d-9403-48a2-a94b-a807711ee6b7.png)
 
 
 

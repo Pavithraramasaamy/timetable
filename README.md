@@ -93,12 +93,15 @@ CODE
     <li>4. 19PH205 - Computational Physics</li>
     <li>5. 19CY205 - Principles of Chemistry in Engineering</li>
     <li>6. 19AI302 - Engineering Design and Modelling</li>
-    <li>7. 19EY701 - Soft Skills</li>
+    <li>7. 19EY70!
+1 - Soft Skills</li>
 </uL>
 </body>
 </html>
 ```
 OUTPUT:
+[Screenshot from 2023-01-16 09-32-44](https://user-images.githubusercontent.com/118596964/212606933-dfb6042d-c7b8-407e-b7c9-d6830fca1f51.png)
+![Screenshot from 2023-01-16 11-12-33](https://user-images.githubusercontent.com/118596964/212606909-168e65a1-d83f-4a01-9878-891ade040034.png)
 
 
 RESULT:

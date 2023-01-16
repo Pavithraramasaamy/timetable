@@ -45,8 +45,8 @@ CODE
 <table border="2" align="center">
 <TR><TH colspan="80" align="center">TIME TABLE</TH> </TR>
 <tr>
-<th colspan="50" align="LEFT">NAME : VAISHNAVI</TH>
-<th COLSPAN="30" align="RIGHT">REG NO: 220O9040</TH>
+<th colspan="50" align="LEFT">NAME : PAVITHRA</TH>
+<th COLSPAN="30" align="RIGHT">REG NO: 220O8965</TH>
 </TR>
 <TR>
 <th colspan="15" align="center" WIDTH="10%"><i>TIME</i></tH>
@@ -108,6 +108,7 @@ CODE
 </html>
 
 RESULT:
+
      The first-semester timetable is executed successfully.
 
 

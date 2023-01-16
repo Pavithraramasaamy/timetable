@@ -134,7 +134,10 @@ Execute the program
 
 
 # OUPUT
-![Screenshot from 2023-01-16 15-12-22](https://user-images.githubusercontent.com/118596964/212647835-0a7e6a47-76d5-437c-9eed-62107e34e020.png)
+[timetable.pdf](https://github.com/Pavithraramasaamy/timetable/files/10424504/timetable.pdf)
+
+
+
 
 
 

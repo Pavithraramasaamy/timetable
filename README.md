@@ -102,6 +102,7 @@ CODE
 OUTPUT:
 
 /home/sec/Pictures/Screenshots/Screenshot from 2023-01-16 09-32-44.png
+
 /home/sec/Pictures/Screenshots/Screenshot from 2023-01-16 11-12-33.png
 
 RESULT:

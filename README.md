@@ -93,9 +93,7 @@ CODE
 <TH colspan="15" align="center" WIDTH="10%">19AI302</tH>
 </tr>
 </table>
-<uL align="center" type="none">
-   ![sec](https://user-images.githubusercontent.com/118596964/212594562-d7a26dc8-b360-4c33-a42d-a2fd5aa802c7.jpg)
-
+<uL align="center" type="none"
     <LI>1. 19AI414 - Fundamentals of Web Applications</LI>
     <li>2. 19CS301P1 - Problem Solving and Python Programming P1</li>
     <li>3. 19EN101 - Communicative English</li>
@@ -106,6 +104,8 @@ CODE
 </uL>
 </body>
 </html>
+OUTPUT:
+recent:///e71d3c3797ce047117d85baa63c4c911
 
 RESULT:
 

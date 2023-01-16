@@ -101,10 +101,8 @@ CODE
 ```
 OUTPUT:
 
-
-![Screenshot![Screenshot from 2023-01-16 09-32-44](https://user-images.githubusercontent.com/118596964/212607067-f8d9e35c-a4f3-4b1d-bd74-90aa55bb147e.png)
- from 2023-01-16 11-12-33](https://user-images.githubusercontent.com/118596964/212606909-168e65a1-d83f-4a01-9878-891ade040034.png)
-
+/home/sec/Pictures/Screenshots/Screenshot from 2023-01-16 09-32-44.png
+/home/sec/Pictures/Screenshots/Screenshot from 2023-01-16 11-12-33.png
 
 RESULT:
 

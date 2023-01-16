@@ -134,7 +134,7 @@ Execute the program
 
 
 # OUPUT
-[timetable.pdf](https://github.com/Pavithraramasaamy/timetable/files/10424504/timetable.pdf)
+![timetable.pdf](https://github.com/Pavithraramasaamy/timetable/files/10424504/timetable.pdf)
 
 
 

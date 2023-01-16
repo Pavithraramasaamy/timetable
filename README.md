@@ -25,99 +25,67 @@ Execute the program
 # CODE
 ```
 <!DOCTYPE html>
-<html>
+<html lang ='en'>
+    <head>
+        <title>My TimeTable</title>
+    </head>
+    <body>
 
-<body>
-    <center><img src="/static/images/logo.png" align="center" width="1500" height="200"></center>
-    <center><img src="/static/images/sav.png" align="center" width="1500" height="200"></center>
-    <h1 align="center">SAVEETHA ENGINEERING COLLEGE</h1>
-    <h2 align="center">Name:	R.Pavithra</h2>
-    <h2 align="center">Reference no.:	22008965</h2>
-    <h2 align="center">Department:	AIDS</h2>
-    <h2 align="center">College code:	2122</h2>
-    <h2 align="center">Slot no:	6C1-1</h2>
-    <h2 align="center">ClASS TIME TABLE</h2>
-    <table border="5" cellspacing="0" align="center">
-        <!--<caption>Timetable</caption>-->
-        <tr>
-            <td align="center" height="50" width="100"><br>
-                <b>Day/Period</b></br>
-            </td>
-            <td align="center" height="50" width="100">
-                <b>I<br>8:00-10:00</b>
-            </td>
-            <td align="center" height="50" width="100">
-                <b>II<br>10:00-12:00</b>
-            </td>
-            <td align="center" height="50" width="100">
-                <b>12:00-01:00</b>
-            </td>
-            <td align="center" height="50" width="100">
-                <b>III<br>01:00-03:00</b>
-            </td>
-            <td align="center" height="50" width="100">
-                <b>VI<br>03:00-05:00</b>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" height="50">
-                <b>Monday</b>
-            </td>
-            <td align="center" height="50">Web application development</td>
-            <td align="center" height="50">--</td>
-            <td rowspan="6" align="center" height="50">
-                <h2>L<br>U<br>N<br>C<br>H</h2>
-            </td>
-            <td align="center" height="50">Soft skills</td>
-            <td align="center" height="50">Statistics & Numericals</td>
-        </tr>
-        <tr>
-            <td align="center" height="50">
-                <b>Tuesday</b>
-            </td>
-            <td align="center" height="50">Web application development</td>
-            <td align="center" height="50">Communicative English</td>
-            <td align="center" height="50">Digital Electronics</td>
-            <td align="center" height="50">--</td>
-        </tr>
-        <tr>
-            <td align="center" height="50">
-                <b>Wednesday</b>
-            </td>
-            <td align="center" height="50">Physics for quantum Computing</td>
-            <td align="center" height="50">--</td>
-            <td align="center" height="50">Digital Electronics</td>
-            <td align="center" height="50">--</td>
-        </tr>
-        <tr>
-            <td align="center" height="50">
-                <b>Thursday</b>
-            </td>
-            <td align="center" height="50">Statistics & Numericals</td>
-            <td align="center" height="50">--</td>
-            <td align="center" height="50">Communicative English</td>
-            <td align="center" height="50">Physics for quantum Computing</td>
-        </tr>
-        <tr>
-            <td align="center" height="50">
-                <b>Friday</b>
-            </td>
-            <td align="center" height="50">--</td>
-            <td align="center" height="50">Statistics & Numericals</td>
-            <td align="center" height="50">Web application development</td>
-            <td align="center" height="50">--</td>
-        </tr>
-        <tr>
-            <td align="center" height="50">
-                <b>Saturday</b>
-            </td>
-            <td align="center" height="50">Web application development</td>
-            <td align="center" height="50">--</td>
-            <td align="center" height="50">Soft skills</td>
-            <td align="center" height="50">Statistics & Numericals</td>
-        </tr>
-    </table>
-        <uL align="center" type="none">
+<center><img src="/static/images/logo.png" align="center" width="1500" height="200"></center>
+<center><img src="/static/images/sav.png" align="center" width="1500" height="200"></center>
+<h1 align="center">MY TIMETABLE</h1>
+<table border="2" align="center">
+<TR><TH colspan="80" align="center">TIME TABLE</TH> </TR>
+<tr>
+<th colspan="50" align="LEFT">NAME : PAVITHRA</TH>
+<th COLSPAN="30" align="RIGHT">REG NO: 220O8965</TH>
+</TR>
+<TR>
+<th colspan="15" align="center" WIDTH="10%"><i>TIME</i></tH>
+<th colspan="15" align="center" WIDTH="10%"><i>8-10 AM</i></tH>
+<tH colspan="15" align="center" WIDTH="10%"><i>10-12 AM</i></tH>
+<tH  align="center" WIDTH="5%"><i>12-1 PM</i></tH>
+<tH colspan="15" align="center" WIDTH="10%"><i>1-3 PM</i></tH>
+<TH colspan="15" align="center" WIDTH="10%"><i>3-5 PM</i></tH>
+</tr>
+<TR>
+<th colspan="15" align="left" WIDTH="10%"><i>MONDAY</i></tH>
+<th colspan="15" align="center" WIDTH="10%">-</tH>
+<tH colspan="15" align="center" WIDTH="10%">19AI414</tH>
+<tH rowspan="15" align="center" WIDTH="5%"><i>Lunch</i></tH>
+<tH colspan="15" align="center" WIDTH="10%">19CS301P1</tH>
+<TH colspan="15" align="center" WIDTH="10%">-</tH>
+</tr>
+<TR>
+<th colspan="15" align="left" WIDTH="10%"><i>TUESDAY</i></tH>
+<th colspan="15" align="center" WIDTH="10%">19EN101</tH>
+<tH colspan="15" align="center" WIDTH="10%">-</tH>
+<tH colspan="15" align="center" WIDTH="10%">19AI414</tH>
+<TH colspan="15" align="center" WIDTH="10%">-</tH>
+</tr>
+<TR>
+<th colspan="15" align="left" WIDTH="10%"><i>WEDNESDAY</i></tH>
+<th colspan="15" align="center" WIDTH="10%">19PH205</tH>
+<tH colspan="15" align="center" WIDTH="10%">19CY205</tH>
+<tH colspan="15" align="center" WIDTH="10%">19AI414</tH>
+<TH colspan="15" align="center" WIDTH="10%">-</tH>
+</tr>
+<TR>
+<th colspan="15" align="left" WIDTH="10%"><i>THURSDAY</i></tH>
+<th colspan="15" align="center" WIDTH="10%">19EN101</tH>
+<tH colspan="15" align="center" WIDTH="10%">19AI302</tH>
+<tH colspan="15" align="center" WIDTH="10%">19CY205</tH>
+<TH colspan="15" align="center" WIDTH="10%">19PH205</tH>
+</tr>
+<TR>
+<th colspan="15" align="left" WIDTH="10%"><i>FRIDAY</i></tH>
+<th colspan="15" align="center" WIDTH="10%">19CS301P1</tH>
+<tH colspan="15" align="center" WIDTH="10%">-</tH>
+<tH colspan="15" align="center" WIDTH="10%">19EY701</tH>
+<TH colspan="15" align="center" WIDTH="10%">19AI302</tH>
+</tr>
+</table>
+<uL align="center" type="none">
     <LI>1. 19AI414 - Fundamentals of Web Applications</LI>
     <li>2. 19CS301P1 - Problem Solving and Python Programming P1</li>
     <li>3. 19EN101 - Communicative English</li>
@@ -126,20 +94,16 @@ Execute the program
     <li>6. 19AI302 - Engineering Design and Modelling</li>
     <li>7. 19EY701 - Soft Skills</li>
 </uL>
-    </uL>
-    </uL>
-    </table>
 </body>
+</html>
+
 ```
 
 
 # OUPUT
 
 
-![Screenshot from 2023-01-16 15-12-22](https://user-images.githubusercontent.com/118596964/212649331-f5bcacb6-e29d-427d-ab30-952ade2a09c5.png)
-
-
-![Screenshot from 2023-01-16 15-22-18](https://user-images.githubusercontent.com/118596964/212649343-154ea37d-9403-48a2-a94b-a807711ee6b7.png)
+![Screenshot from 2023-01-16 15-31-00](https://user-images.githubusercontent.com/118596964/212651113-2bb53d14-44bc-40f4-b641-f3e662f35bb1.png)
 
 
 

@@ -105,9 +105,10 @@ CODE
 </body>
 </html>
 OUTPUT:
-recent:///e71d3c3797ce047117d85baa63c4c911
+
 
 RESULT:
+![sec](https://user-images.githubusercontent.com/118596964/212605852-e35493c7-0a45-4b7f-b3c0-df0c8cf62626.jpg)
 
      The first-semester timetable is executed successfully.
 

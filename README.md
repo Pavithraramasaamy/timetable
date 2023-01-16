@@ -116,6 +116,7 @@ Execute the program
             <td align="center" height="50">Soft skills</td>
             <td align="center" height="50">Statistics & Numericals</td>
         </tr>
+    </table>
         <uL align="center" type="none">
     <LI>1. 19AI414 - Fundamentals of Web Applications</LI>
     <li>2. 19CS301P1 - Problem Solving and Python Programming P1</li>
@@ -133,7 +134,9 @@ Execute the program
 
 
 # OUPUT
-![OUTPUT]{http://pavithraramasaamy.student.saveetha.in:8000/static/images/out.png?raw=true}
+![Screenshot from 2023-01-16 15-12-22](https://user-images.githubusercontent.com/118596964/212647835-0a7e6a47-76d5-437c-9eed-62107e34e020.png)
+
+
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://pavithraramasaamy.student.saveetha.in:8000/static/images/valid.png?raw=true)
